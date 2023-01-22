@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WILD THE GAME", "ConsoleApp1\WILD THE GAME.csproj", "{4B5F2D5A-CBDB-463F-9E9D-EBD3A5DA01AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{80C79711-ED13-484C-8ED3-6382003B639E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5F2D5A-CBDB-463F-9E9D-EBD3A5DA01AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5F2D5A-CBDB-463F-9E9D-EBD3A5DA01AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5F2D5A-CBDB-463F-9E9D-EBD3A5DA01AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5F2D5A-CBDB-463F-9E9D-EBD3A5DA01AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31AFEE0F-C5D9-4638-8D3F-F99AB2F96F6E}
+	EndGlobalSection
+EndGlobal
